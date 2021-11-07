@@ -1,2 +1,2 @@
 # bottleassets
-Pics and necessary files  
+Blog Pics and necessary files  
