@@ -1,2 +1,4 @@
 # bottleassets
-Blog Pics and necessary files  
+Pics for my note.  
+
+My note: https://github.com/cat-note/bottleofcat 
